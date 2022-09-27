@@ -2,10 +2,10 @@ import util_functions
 
 def print_hi(name):
     print(f'Hi, {name}')
-    
+
 def main():
-    print('main ')
-    print()
+    print('main has started...')
+    print(util_functions)
     print()
     print()
 
